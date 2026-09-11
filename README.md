@@ -1,0 +1,1 @@
+# stardewManager_
